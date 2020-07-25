@@ -5,5 +5,7 @@
   "unity": "2019.1",
   "author": {
     "name": "PowerClockGames"
-  }
+  },
+  "hideInEditor": false,
+  "type": "tool",
 }
